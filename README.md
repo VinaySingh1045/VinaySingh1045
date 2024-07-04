@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Devlopment**
 
-- 📫 How to reach me **[vy0891547@gmail.com*](https://twitter.com/VinaySingh_1045)*
+- 📫 How to reach me **(https://twitter.com/VinaySingh_1045)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
