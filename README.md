@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Chat App (ChatHub)**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Socket.io**
 
 - 💬 Ask me about **Web Devlopment**
 
