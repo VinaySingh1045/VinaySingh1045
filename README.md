@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaysingh1045&label=Profile%20views&color=0e75b6&style=flat" alt="vinaysingh1045" /> </p>
 
-- 🔭 I’m currently working on **Chat App (ChatHub)**
+- 🔭 I’m currently working on **Todo App (Which Connect to telegram and google chat)**
 
-- 🌱 I’m currently learning **Socket.io**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **Web Devlopment**
 
