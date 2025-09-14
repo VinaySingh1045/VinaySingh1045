@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Devlopment**
 
-- 📫 How to reach me **https://twitter.com/VinaySingh_1045**
+- 📫 How to reach me **https://www.linkedin.com/in/vinay-singh-13a50a238**
 
 - 😎 My Portfolio Website **https://portfolio-vinay-singh1045.vercel.app/**
 
